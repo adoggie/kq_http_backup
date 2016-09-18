@@ -1,0 +1,1 @@
+axel\axel.exe  -o backup/2011_1-26_6_0_0.bak http://kqgjls.net/asp/data_backup/zhk0432011-1-26.7055475.mdb 
